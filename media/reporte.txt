@@ -1,0 +1,116 @@
+
+device: redes3
+description: Linux redes3 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64
+email: derek_escorpio@hotmail.com
+date: 2022-04-03 18:55:27.480978
+defaultProtocol: radius
+
+rdate: 2022-04-03 18:44:00
+#Acct-Input-Packets
+47: 17.21
+#Acct-Output-Packets
+48: 18.49
+#Acct-Input-Octets
+42: 22311.36
+#Acct-Output-Octets
+43: 21010.15
+
+rdate: 2022-04-03 18:45:00
+#Acct-Input-Packets
+47: 18.77
+#Acct-Output-Packets
+48: 20.49
+#Acct-Input-Octets
+42: 22286.22
+#Acct-Output-Octets
+43: 20931.23
+
+rdate: 2022-04-03 18:46:00
+#Acct-Input-Packets
+47: 17.93
+#Acct-Output-Packets
+48: 20.04
+#Acct-Input-Octets
+42: 22264.15
+#Acct-Output-Octets
+43: 22459.57
+
+rdate: 2022-04-03 18:47:00
+#Acct-Input-Packets
+47: 18.49
+#Acct-Output-Packets
+48: 20.04
+#Acct-Input-Octets
+42: 20050.56
+#Acct-Output-Octets
+43: 20573.77
+
+rdate: 2022-04-03 18:48:00
+#Acct-Input-Packets
+47: 16.63
+#Acct-Output-Packets
+48: 18.81
+#Acct-Input-Octets
+42: 22246.48
+#Acct-Output-Octets
+43: 22233.06
+
+rdate: 2022-04-03 18:49:00
+#Acct-Input-Packets
+47: 19.67
+#Acct-Output-Packets
+48: 21.65
+#Acct-Input-Octets
+42: 23242.33
+#Acct-Output-Octets
+43: 21792.76
+
+rdate: 2022-04-03 18:50:00
+#Acct-Input-Packets
+47: 17.07
+#Acct-Output-Packets
+48: 18.67
+#Acct-Input-Octets
+42: 21241.79
+#Acct-Output-Octets
+43: 21747.31
+
+rdate: 2022-04-03 18:51:00
+#Acct-Input-Packets
+47: 19.62
+#Acct-Output-Packets
+48: 21.63
+#Acct-Input-Octets
+42: 22254.72
+#Acct-Output-Octets
+43: 21803.81
+
+rdate: 2022-04-03 18:52:00
+#Acct-Input-Packets
+47: 12.65
+#Acct-Output-Packets
+48: 14.15
+#Acct-Input-Octets
+42: 15630.37
+#Acct-Output-Octets
+43: 15266.28
+
+rdate: 2022-04-03 18:53:00
+#Acct-Input-Packets
+47: 0.05
+#Acct-Output-Packets
+48: 0.05
+#Acct-Input-Octets
+42: 199.36
+#Acct-Output-Octets
+43: 195.05
+
+rdate: 2022-04-03 18:54:00
+#Acct-Input-Packets
+47: 0.00
+#Acct-Output-Packets
+48: 0.00
+#Acct-Input-Octets
+42: 194.19
+#Acct-Output-Octets
+43: 191.78
